@@ -1,0 +1,22 @@
+.body_backgorund {
+  background-image: url("pencils.jpg");
+  background-position: center;
+  background-size: cover;
+}
+h1
+{
+	color:palegoldenrod; 
+	font-family: monospace;
+	font-size: 40px;
+}
+
+#myCanvas
+{
+	border-width:20px;
+	background-color: black; 
+	border-style:dashed;
+}
+span
+{
+	font-size: 20px;
+}
